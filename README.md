@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samridhi.sahu07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_iEt4Q9Rv25IO1qi2EYc4Yzplv3TyWEj/view?usp=sharing](https://drive.google.com/file/d/1_iEt4Q9Rv25IO1qi2EYc4Yzplv3TyWEj/view?usp=sharing)
+- 📄 Know about my experiences [https://samridhi-sahu.github.io/Portfolio/](https://samridhi-sahu.github.io/Portfolio/)
 
 - ⚡ Fun fact **extremely curious person**
 
