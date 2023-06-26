@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samridhi-sahu" alt="samridhi-sahu" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring, Spring boot**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📝 some writing stuff [https://www.instagram.com/samridhi.sahu_07/](https://www.instagram.com/samridhi.sahu_07/)
 
