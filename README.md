@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samridhi-sahu" alt="samridhi-sahu" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **GoLang**
 
 - 📝 some writing stuff [https://www.instagram.com/samridhi.sahu_07/](https://www.instagram.com/samridhi.sahu_07/)
 
-- 💬 Ask me about **core Java, swing, javaFx, html, css, js**
+- 💬 Ask me about **Core Java, Go, DBMS, SQL and DSA**
 
 - 📫 How to reach me **samridhi.sahu07@gmail.com**
 
