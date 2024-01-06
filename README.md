@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samridhi Sahu</h1>
-<h3 align="center">I'm passionate for Java developer roles</h3>
+<h3 align="center">I'm passionate for Sofware developer roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="samridhi-sahu" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 some writing stuff [https://www.instagram.com/samridhi.sahu_07/](https://www.instagram.com/samridhi.sahu_07/)
 
-- 💬 Ask me about **Core Java, Go, DBMS, SQL and DSA**
+- 💬 Ask me about **Core Java, Golang, DBMS, SQL and Data structure and Alogorithms**
 
 - 📫 How to reach me **samridhi.sahu07@gmail.com**
 
